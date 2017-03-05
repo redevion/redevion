@@ -1,0 +1,17 @@
+{
+  "name": "redevion/redevion",
+  "autoload": {
+    "psr-4": {
+      "App\\":"app/"
+    }
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/redevion/framework"
+    }
+  ],
+  "require": {
+    "redevion/framework": "dev-master"
+  }
+}
