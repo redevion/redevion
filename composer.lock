@@ -1,0 +1,50 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "f1f0918d3b2b5876833f33a32ecb2c6c",
+    "content-hash": "06efe68fe0542c0476c93ccadf80c348",
+    "packages": [
+        {
+            "name": "redevion/framework",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/redevion/framework.git",
+                "reference": "f4617e2d8814a7721cf780a83df2f3b5aabf357e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/redevion/framework/zipball/f4617e2d8814a7721cf780a83df2f3b5aabf357e",
+                "reference": "f4617e2d8814a7721cf780a83df2f3b5aabf357e",
+                "shasum": ""
+            },
+            "type": "library",
+            "authors": [
+                {
+                    "name": "Bogusław Krawczyk",
+                    "email": "contact@redevion.com"
+                }
+            ],
+            "description": "The REDEVION Framework",
+            "homepage": "http://redevion.com",
+            "support": {
+                "source": "https://github.com/redevion/framework/tree/master",
+                "issues": "https://github.com/redevion/framework/issues"
+            },
+            "time": "2017-03-05 22:04:48"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "redevion/framework": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
